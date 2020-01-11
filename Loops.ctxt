@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Loops
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Loops\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ average()
+comment2.params=
+comment2.target=void\ infinite()
+comment3.params=low\ high
+comment3.target=void\ sum(int,\ int)
+comment4.params=high\ low
+comment4.target=void\ countdown(int,\ int)
+comment5.params=low\ high\ digit
+comment5.target=int\ countMuitlbes(int,\ int,\ int)
+numComments=6
